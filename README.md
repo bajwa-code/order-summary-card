@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this. 
+Thanks for checking out this. Completed this challenge using HTML and CSS Flexbox.
 
 # Front-end Style Guide
 
